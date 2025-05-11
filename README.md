@@ -18,4 +18,4 @@ OpenCV を使用して様々な画像処理を行うPythonプロジェクトで�
 
 ## 最後に
 
-このハンズオンの教材は[こちら](https://zenn.dev/0_s0g0/articles/9f82e2ef2196e4)から
+このハンズオンの教材は[Zenn](https://zenn.dev/0_s0g0/articles/9f82e2ef2196e4)にて！
